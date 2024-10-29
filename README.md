@@ -29,5 +29,5 @@ In the following table, three scenarios are presented where Zeek can be utilized
 | scenarios                                  | Associated   Activity        |
 |-----------------------------------------------|----------------------------|
 | Anomalous DNS Activity| <a href="https://github.com/AntonioGorosito/ZEEK-exercises-Anomalous-DNS-/blob/main/README.md">Detection Lab</a>|
-| Phishing Attempt |Detection Lab</a>|
+| Phishing Attempt |  <a href="https://github.com/AntonioGorosito/Phishing-Attempt-with-zeek/blob/main/README.md">Detection Lab</a>|
 | Log4J Exploitation Attempt |Detection Lab|
